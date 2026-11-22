@@ -5511,5 +5511,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/RomitGoyal2303">
+                    <img src="https://github.com/RomitGoyal2303.png" width="100px;"
+                        alt="Romit Kumar" />
+                    <br />
+                    <sub>
+                        <b>Romit Kumar</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
